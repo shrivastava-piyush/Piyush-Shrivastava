@@ -1,6 +1,6 @@
 ## Bio	
 
-<img src="https://user-images.githubusercontent.com/10284334/109451652-e6cf8f00-7a1b-11eb-8b5f-734cc0780703.png" width="400" height="500">
+<img src="https://user-images.githubusercontent.com/10284334/109451652-e6cf8f00-7a1b-11eb-8b5f-734cc0780703.png" width="300" height="400">
 
 I'm a Computer Science graduate student at Northeastern University, with a specialization in AI.	
 
