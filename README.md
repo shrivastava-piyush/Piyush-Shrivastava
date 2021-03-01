@@ -25,4 +25,4 @@ Problem. arXiv preprint arXiv:1905.10701.
 #### [Graphical representation of concepts](https://github.com/shrivastava-piyush/conceptual-mindmaps):
 I'm experimenting on the topic of meta-learning to find suitable non-linear approcahes to form an idea about theoretical concepts of computer science. 
 ![dt](https://user-images.githubusercontent.com/10284334/109446387-93574400-7a0f-11eb-80c1-a126830ad269.png)
-For instance, Decision Trees would be a particaular branch of machine learning algorithms.
+For instance, Decision Trees would be a particaular branch of machine learning algorithms. This allows the learner to construe the interactive relationship between different ideas related to a concept.
