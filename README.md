@@ -1,6 +1,6 @@
 ## Bio
 
-I'm a Computer Science student at Northeastern University, with a specialization in AI.
+I'm a Computer Science graduate student at Northeastern University, with a specialization in AI.
 
 My interest is in the development of scalable planning and learning solutions for problems involving autonomous agents. I love to work with theoretical ideas applicable to broadly relevant problems.
 
