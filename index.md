@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Bio
 
-You can use the [editor on GitHub](https://github.com/shrivastava-piyush/piyush.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I'm a Computer Science student at Northeastern University, with a specialization in AI.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My interest is in the development of scalable planning and learning solutions for problems involving autonomous agents. I love to work with theoretical ideas applicable to broadly relevant problems.
 
 ### Markdown
 
@@ -25,13 +25,3 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shrivastava-piyush/piyush.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
