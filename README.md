@@ -21,3 +21,8 @@ Narayanaswamy, A., Ma, Y.P. and Shrivastava, P., 2019. Image Detection and
 Digit Recognition to solve Sudoku as a Constraint Satisfaction 	
 Problem. arXiv preprint arXiv:1905.10701.	
 ```
+
+#### [Graphical representation of concepts](https://github.com/shrivastava-piyush/conceptual-mindmaps):
+I'm experimenting on the topic of meta-learning to find suitable non-linear approcahes to form an idea about theoretical concepts of computer science. 
+![dt](https://user-images.githubusercontent.com/10284334/109446387-93574400-7a0f-11eb-80c1-a126830ad269.png =400x400)
+For instance, Decision Trees would be a particaular branch of machine learning algorithms.
