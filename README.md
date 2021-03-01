@@ -4,9 +4,10 @@ I'm a Computer Science graduate student at Northeastern University, with a speci
 
 My interest is in the development of scalable planning and learning solutions for problems involving autonomous agents. I love to work with theoretical ideas applicable to broadly relevant problems.
 
-### Markdown
+### Projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Neural Code Summarization:
+I used attention-based models to generate code descriptors for segments of code in different languages such as Java, Python and C.
 
 ```markdown
 Syntax highlighted code block
@@ -23,6 +24,6 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](https://media-exp1.licdn.com/dms/image/C4E03AQG70YHzMou-4A/profile-displayphoto-shrink_400_400/0/1606232038535?e=1620259200&v=beta&t=qpeTOJU1UTLrmDK9PtEuSyiWcjrlzrW3dsTB4al3_T0)
 ```
 
