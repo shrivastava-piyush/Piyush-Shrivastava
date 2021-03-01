@@ -1,4 +1,4 @@
-## Bio	
+### Bio	
 
 I'm a Computer Science graduate student at Northeastern University, with a specialization in AI.	
 
