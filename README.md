@@ -15,7 +15,9 @@ During my research fellowship at Khoury College of Computer Sciences, I assisted
 #### Solving Sudoku:
 
 ```markdown
-Narayanaswamy, A., Ma, Y.P. and Shrivastava, P., 2019. Image Detection and Digit Recognition to solve Sudoku as a Constraint Satisfaction Problem. arXiv preprint arXiv:1905.10701.
+Narayanaswamy, A., Ma, Y.P. and Shrivastava, P., 2019. Image Detection and 
+Digit Recognition to solve Sudoku as a Constraint Satisfaction 
+Problem. arXiv preprint arXiv:1905.10701.
 ```
 A collaborative effort to recognize Sudoku characters based on a custom dataset generated from newspapers, framing and solving Sudoku as a Constraint Satisfaction problem.
 
