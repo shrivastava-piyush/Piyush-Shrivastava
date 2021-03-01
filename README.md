@@ -4,13 +4,13 @@ I'm a Computer Science graduate student at Northeastern University, with a speci
 
 My interest is in the development of scalable planning and learning solutions for problems involving autonomous agents. I love to work with theoretical ideas applicable to broadly relevant problems.	
 
-### Projects	
+### Recent Projects	
 
 - #### [Neural Code Summarization](https://github.com/shrivastava-piyush/nlp-code-summarization):	
    I used a Seq2Seq model with attention to generate code descriptors for segments of code in different languages such as Java, Python and C. 
    
    ![C Dataset](https://user-images.githubusercontent.com/10284334/109447837-a15a9400-7a12-11eb-8389-c131d7c9cd61.png)
-   A custom dataset for segments of C was generated with [PyDriller](https://github.com/ishepard/pydriller) to evaluate the performance of models on a code-commit message pair.
+   A custom dataset for segments of C was generated with [PyDriller](https://github.com/ishepard/pydriller) to evaluate the performance of models on a code-commit message pair. The objective is to better understand the history of a project.
    
 
 - #### Deep-sample based planning:	
