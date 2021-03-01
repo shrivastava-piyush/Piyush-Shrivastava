@@ -1,5 +1,7 @@
 ## Bio	
 
+<img src="https://user-images.githubusercontent.com/10284334/109451652-e6cf8f00-7a1b-11eb-8b5f-734cc0780703.png" width="400" height="500">
+
 I'm a Computer Science graduate student at Northeastern University, with a specialization in AI.	
 
 My interest is in the development of scalable planning and learning solutions for problems involving autonomous agents. I love to work with theoretical ideas applicable to broadly relevant problems.	
