@@ -16,11 +16,11 @@ My interest is in the development of scalable planning and learning solutions fo
 
   A collaborative effort to recognize Sudoku characters based on a custom dataset generated from newspapers, framing and solving Sudoku as a Constraint Satisfaction problem.	
 
-```markdown	
-Narayanaswamy, A., Ma, Y.P. and Shrivastava, P., 2019. Image Detection and 	
-Digit Recognition to solve Sudoku as a Constraint Satisfaction 	
-Problem. arXiv preprint arXiv:1905.10701.	
-```
+  ```markdown	
+  Narayanaswamy, A., Ma, Y.P. and Shrivastava, P., 2019. Image Detection and 	
+  Digit Recognition to solve Sudoku as a Constraint Satisfaction 	
+  Problem. arXiv preprint arXiv:1905.10701.	
+  ```
 
 - #### [Graphical representation of concepts](https://github.com/shrivastava-piyush/conceptual-mindmaps):
   I'm experimenting on the topic of meta-learning to find suitable non-linear approcahes to form an idea about theoretical concepts of computer science. 
