@@ -16,7 +16,7 @@ My interest is in the development of scalable planning and learning solutions fo
    I worked with the LiveData team as an intern to work on a translation problem, for which I framed the problem as a classification task and implemented the solution with POS tagging and deep learning.
    
 #### Techincal Intern, Oracle
-   After LiveData Utilities was acquired by Oracle, I continued to extend my previous at LiveData to integrate the ML solution into an ETL-based Batch Creation process working with Oracle SQL. My portfolio was diversified further with an opportunity to develop and test for a product in C/C++.
+   After LiveData Utilities was acquired by Oracle, I continued to extend my previous work at LiveData to integrate the ML solution into an ETL-based Batch Creation process working with Oracle SQL. My portfolio was diversified further with an opportunity to develop and test for a product in C/C++.
    
 ### Recent Projects	
 
